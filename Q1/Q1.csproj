@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E00BF342-8A75-4007-A7AF-F28478456B14}</ProjectGuid>
+    <ProjectGuid>{535F6383-0287-4B27-8B63-75680CCE6D79}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>socot</RootNamespace>
-    <AssemblyName>socot</AssemblyName>
+    <RootNamespace>Q1</RootNamespace>
+    <AssemblyName>Q1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
